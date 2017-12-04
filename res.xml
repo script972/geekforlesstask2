@@ -1,0 +1,114 @@
+<people>
+    <person>
+        <name>Джеймс Гослинг</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Бьёрн Страуструп</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Говард Эйкерн</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Сергей Лебедев</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Сергей Брин</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Стив Джобс</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Билл Гейтс</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Макр Цукерберг</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+    <person>
+        <name>Павел Дуров</name>
+        <town>Николаев</town>
+        <passportSer>EP</passportSer>
+        <number>341274</number>
+        <take>Центральным РВу города Николаева</take>
+        <home>город Николав, 6-ая Слободская дом 34, кв 31</home>
+        <landlord>Фрунзе Александр Сергеевич</landlord>
+        <sum>500у.е. (пятьсот условных единиц)</sum>
+        <dateExpire>05.12.18</dateExpire>
+    </person>
+
+    <person>
+        <name>тест 10</name>
+        <town>Никополь</town>
+        <passportSer>ЦУ</passportSer>
+        <number>125412</number>
+        <take>Кем либо</take>
+        <home>город Никополь улица Пушкина дом Калатушкина</home>
+        <landlord>Долг Долг Долгович</landlord>
+        <sum>Много много много</sum>
+        <dateExpire>03.1.19</dateExpire>
+    </person>
+
+</people>
