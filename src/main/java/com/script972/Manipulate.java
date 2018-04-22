@@ -11,6 +11,6 @@ public class Manipulate {
     public void task() throws ParserConfigurationException, SAXException, IOException {
         XmlReader xmlReader=new XmlReader();
         ReceiptDAO receiptDAO=new ReceiptDAO();
-        receiptDAO.insertAll(xmlReader.readFile());
+        //receiptDAO.insertAll(xmlReader.readFile());
     }
 }

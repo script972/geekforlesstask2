@@ -11,15 +11,18 @@ import java.util.Properties;
 
 public class DBConnector {
     private String host="jdbc:mysql://localhost:3306/task2?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+    private String host2="jdbc:mysql://localhost:3306/SearcerLog?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private String username="root";
     private String password="root";
 
     private Connection connection;
+    private Connection connection2;
 
     public DBConnector() {
         initProperties();
         try {
             connection= DriverManager.getConnection(host, username, password);
+            connection2= DriverManager.getConnection(host2, username, password);
         } catch (SQLException e) {
             e.printStackTrace();
         }
@@ -63,5 +66,9 @@ public class DBConnector {
 
     public Connection getConnection() {
         return connection;
+    }
+
+    public Connection getConnection2() {
+        return connection2;
     }
 }
